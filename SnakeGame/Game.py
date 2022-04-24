@@ -44,5 +44,5 @@ if __name__ == '__main__':
         canva.update()
         canva.delete('all')
 
-        root.mainloop()
+    root.mainloop()
 
